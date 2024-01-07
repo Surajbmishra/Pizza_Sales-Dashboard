@@ -8,6 +8,6 @@ Here is my Pizza Sales Dashboard of 2015 data and we need to analyze key indicat
 • Charts Requirements: Daily Trend for Total Orders, Monthly Trend for Total Orders, Percentage of Sales By Pizza Category, Percentage of Sales by Pizza Size, Total Pizzas Sold By Pizza 
                        Category, Top 5 Best Sellers by Revenue, Total Quantity & Total Orders, Bottom 5 Best Sellers by Revenue, Total Quantity & Total Orders.
 
-Special thanks to Swapnjeet 
+Special thanks to Swapnjeet Sir.
 
 Skills: Microsoft SQL Server · Microsoft Power BI · Microsoft Excel
